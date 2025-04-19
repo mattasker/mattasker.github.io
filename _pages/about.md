@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student, <a href='https://eps.leeds.ac.uk/maths/pgr/9235/matthew-asker'>University of Leeds</a>. Mathematics of evolution.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>What I look like, up to a hair-constant.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a statistical physicist with a strong interest in non-equilibrium systems relating to evolution. My current research focusses on utilising techniques from non-equilibrium statistical physics to investigate problems concerning the eco-evolutionary dynamics of biological systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am primarily interested in understanding how evolution is impacted by external influences, relevant to microbial communities where external influences are something one may be able to control. This has implications for the development of antimicrobial resistance and cancer. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests are not limited solely to biological systems (though these are incredibly interesting!), but also include social dynamics and the evolution of AI through competitive and coevolutionary processes, though I am yet to foray into these topics personally.
+
+Here you will find everything to do with my publications, talks, teaching, and anything else I think is worthwhile having on here.
+
+If you would like to get in contact with me, please do so on my email: [mmmwa@leeds.ac.uk](mailto:mmmwa@leeds.ac.uk).
+
+You can also find me on Bluesky: [masker.science](https://bsky.app/profile/masker.science)
+
+I currently maintain the website for the Eco-Evolutionary Dynamics of Fluctuating Populations research group, which can be found here: [eedfp.com](https://eedfp.com).
