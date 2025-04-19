@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mattasker.github.io/sitemap.xml
+Sitemap: https://masker.science/sitemap.xml
