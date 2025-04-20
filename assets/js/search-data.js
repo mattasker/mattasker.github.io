@@ -85,10 +85,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-l24eeds-workshop",
+          title: 'L24EEDs workshop',
           description: "",
-          section: "News",},{id: "news-poster-presentations-at-iop-physics-of-life-2025-harrogate",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-poster-presentations-at-iop-physics-of-life-2025-harrogate",
           title: 'Poster presentations at IoP Physics of Life 2025, Harrogate',
           description: "",
           section: "News",handler: () => {
