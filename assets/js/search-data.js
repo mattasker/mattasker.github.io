@@ -89,7 +89,7 @@ ninja.data = [{
           title: 'L24EEDs workshop',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/L24EEDs/";
             },},{id: "news-poster-presentations-at-iop-physics-of-life-2025-harrogate",
           title: 'Poster presentations at IoP Physics of Life 2025, Harrogate',
           description: "",
