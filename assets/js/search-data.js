@@ -94,7 +94,7 @@ ninja.data = [{
           title: 'Poster presentations at IoP Physics of Life 2025, Harrogate',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/PoL2025/";
             },},{id: "news-a-new-pre-print-collaborating-with-colleagues-at-virginia-tech-is-out-we-investigate-fixate-and-extinction-in-time-fluctuating-spatially-structured-metapopulations-read-it-here-10-48550-arxiv-2504-08433",
           title: 'A new pre-print collaborating with colleagues at Virginia Tech is out! We investigate...',
           description: "",
