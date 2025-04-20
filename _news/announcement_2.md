@@ -1,33 +1,34 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Poster presentations at IoP Physics of Life 2025, Harrogate
+date: 2025-03-27 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The group recently attended the IoP Physics of Life 2025 conference in sunny Harrogate and had a great time.
 
----
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/PoL-2025-group-photo.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A group visit to the [Japanese Garden](https://www.friendsofvalleygardens.co.uk/page-9/page-12/styled-15/page23.html) in Valley Gardens, Harrogate.
+    Left to right: Mauro Mobilia, Lluís Hernández-Navarro, Matthew Asker (me!), Shaurya Pratap Singh
+</div>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+There were several interesting talks and discussions, particularly one from [Cameron Boggon](https://ch.linkedin.com/in/cameron-boggon-3a0007164) at ETH Zurich regarding spatial structure in microbial communities and methods of probing its effects experimentally. Cells in the experimental setup he showed could really be set up in well-defined spatial structures on a single-cell level. I also enjoyed particularly exciting talks from [Paula García-Galindo](https://scholar.google.com/citations?user=XOfzl6wAAAAJ&hl=en) regarding the genotype-phenotype map and RNA plasticity emerging from a response to fluctuating environemnts and [Nathalie Balaban](https://scholar.google.com/citations?user=NcV19fEAAAAJ&hl=en) regarding statistical physics aprroaches to bacteria under strong perturbations, using techniques from random network dynamics to model systems which have been strongly perturbed.
 
-#### Hipster list
+Furthermore, there were two excellent poster sessions, one of which myself and [Dr. Lluís Hernández-Navarro](https://scholar.google.es/citations?user=MTPKujEAAAAJ&hl=en) were happy to be a part of. In particular, Lluís' poster titled ["Slow spatial migration can help eradicate cooperative antimicrobial resistance in time-varying environments"](https://drive.google.com/file/d/1iuc8wyc_M25fqd5qmYmTOOhWXKrnW64E/view?usp=drive_link) won a prize for best poster!
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Additionally, see my poster below:
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/MatthewAsker-Poster-PoL25.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The poster I presented at the IoP Physics of Life 2025 conference.
+</div>
