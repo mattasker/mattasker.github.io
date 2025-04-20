@@ -85,15 +85,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-a-new-pre-print-collaborating-with-colleagues-at-virginia-tech-is-out-we-investigate-fixate-and-extinction-in-time-fluctuating-spatially-structured-metapopulations-read-it-here-10-48550-arxiv-2504-08433",
+          section: "News",},{id: "news-poster-presentations-at-iop-physics-of-life-2025-harrogate",
+          title: 'Poster presentations at IoP Physics of Life 2025, Harrogate',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-a-new-pre-print-collaborating-with-colleagues-at-virginia-tech-is-out-we-investigate-fixate-and-extinction-in-time-fluctuating-spatially-structured-metapopulations-read-it-here-10-48550-arxiv-2504-08433",
           title: 'A new pre-print collaborating with colleagues at Virginia Tech is out! We investigate...',
           description: "",
           section: "News",},{id: "projects-project-1",
