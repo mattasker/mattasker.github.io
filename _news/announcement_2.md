@@ -14,7 +14,7 @@ The group recently attended the IoP Physics of Life 2025 conference in sunny Har
     </div>
 </div>
 <div class="caption">
-    A group visit to the [Japanese Garden](https://www.friendsofvalleygardens.co.uk/page-9/page-12/styled-15/page23.html) in Valley Gardens, Harrogate.
+    A group visit to the <a href="https://www.friendsofvalleygardens.co.uk/page-9/page-12/styled-15/page23.html">Japanese Garden</a> in Valley Gardens, Harrogate.
     Left to right: Mauro Mobilia, Lluís Hernández-Navarro, Matthew Asker (me!), Shaurya Pratap Singh
 </div>
 
