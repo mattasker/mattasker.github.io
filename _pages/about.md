@@ -29,7 +29,7 @@ I am a statistical physicist with a strong interest in non-equilibrium systems r
 
 I am primarily interested in understanding how evolution is impacted by external influences, relevant to microbial communities where external influences are something one may be able to control. This has implications for the development of antimicrobial resistance and cancer. 
 
-My interests are not limited solely to biological systems (though these are incredibly interesting!), but also include social dynamics, the evolution of language, and the evolution of AI through competitive and coevolutionary processes.
+I also maintain an interest in social dynamics, the evolution of language, and the evolution of AI through competitive and coevolutionary processes.
 
 Here you will find everything to do with my publications, talks, teaching, and anything else I think is worthwhile having on here.
 
