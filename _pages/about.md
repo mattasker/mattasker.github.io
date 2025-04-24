@@ -29,7 +29,7 @@ I am a statistical physicist with a strong interest in non-equilibrium systems r
 
 I'm particularly interested in understanding how evolution is impacted by external influences; for example, a population experiencing a sudden food scarcity or a toxic environment. This problem is increasingly relevant to microbial communities where external influences are something one can often control. Understanding these dynamics provides us with insights into issues such as the development of antimicrobial resistance and cancer evolution. 
 
-While biology offers some of the most striking and consequential examples of evolution, I'm also captivated by how evolution unfolds in other complex systems. These include social dynamics, artificial intelligence, language, economic behaviour, cultural trends, and even cybersecurity, where evolutionary processes play central roles. These supplementary interests enrich my perspective on evolution as a unifying framework across disciplines.
+While biology offers some of the most striking and consequential examples of evolution, I'm also intrigued by how evolution unfolds in other complex systems. These include social dynamics, artificial intelligence, language, economic behaviour, cultural trends, and even cybersecurity, where evolutionary processes play central roles. These supplementary interests enrich my perspective on evolution as a unifying framework across disciplines.
 
 Here you will find everything to do with my publications, talks, teaching, and anything else I think is worthwhile having on here.
 
