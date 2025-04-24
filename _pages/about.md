@@ -25,11 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a statistical physicist with a strong interest in non-equilibrium systems relating to evolution. My current research focusses on utilising techniques from non-equilibrium statistical physics to investigate problems concerning the eco-evolutionary dynamics of biological systems.
+I am a statistical physicist with a strong interest in non-equilibrium systems relating to evolution. My current research draws on tools from non-equilibrium statistical physics to explore eco-evolutionary processes in biological systems.
 
-I am primarily interested in understanding how evolution is impacted by external influences, relevant to microbial communities where external influences are something one may be able to control. This has implications for the development of antimicrobial resistance and cancer. 
+I'm particularly interested in understanding how evolution is impacted by external influences, a topic increasingly relevant to microbial communities where external influences are something one may be able to control. This has implications for the development of antimicrobial resistance and cancer evolution. 
 
-I also maintain an interest in social dynamics, the evolution of language, and the evolution of AI through competitive and coevolutionary processes.
+While biology offers some of the most striking and consequential examples of evolution in action, I'm also captivated by how evolution unfolds in other complex systems. These include social dynamics, artificial intelligence, language, economic behaviour, cultural trends, and even cybersecurity, where evolutionary processes play central roles. These supplementary interests enrich my perspective on evolution as a unifying framework across disciplines.
 
 Here you will find everything to do with my publications, talks, teaching, and anything else I think is worthwhile having on here.
 
