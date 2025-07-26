@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Matthew Asker",
-    "label": "Applied Mathematics PhD Student",
+    "label": "Postdoctoral researcher",
     "image": "",
-    "email": "mmmwa@leeds.ac.uk",
+    "email": "asker@evolbio.mpg.de",
     "phone": "",
-    "url": "https://mattasker.github.io/",
-    "summary": "PhD student in Applied Mathematics using non-equilibrium statistical physics, population dynamics, and evolutionary game theory to study eco-evolutionary dynamics, antimicrobial resistance, and species diversity.",
+    "url": "https://www.evolbio.mpg.de/person/146203/15303",
+    "summary": "Research in evolutionary dynamics using tools from non-equilibrium statistical physics to study eco-evolutionary processes.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Leeds",
-      "countryCode": "GB",
-      "region": "England"
+      "city": "Plön",
+      "countryCode": "DE",
+      "region": "Germany"
     },
     "profiles": [
       {
@@ -22,17 +22,26 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Department of Theoretical Biology, Max Planck Institute of Evolutionary Biology",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.evolbio.mpg.de/person/146203/15303",
+      "startDate": "2025-07-21",
+      "endDate": "2028-07-20",
+      "summary": "Investigating stress-induced mutagenesis on a HFSP funded project with Arne Traulsen working in collaboration with experimentalists in the Martin Kupiec lab at Tel Aviv University."
+    }
+  ],
   "volunteer": [],
   "education": [
     {
       "institution": "University of Leeds",
       "location": "Leeds, England",
-      "url": "https://www.leeds.ac.uk/",
+      "url": "https://eps.leeds.ac.uk/maths/pgr/9235/matthew-asker",
       "area": "Applied Mathematics",
       "studyType": "PhD",
       "startDate": "2021-10-01",
-      "endDate": "",
+      "endDate": "2025-07-09",
       "score": "",
       "courses": [
         "Advanced Mathematical Methods (90%)",
@@ -43,7 +52,7 @@
     {
       "institution": "University of Manchester",
       "location": "Manchester, England",
-      "url": "https://www.manchester.ac.uk/",
+      "url": "https://www.physics.manchester.ac.uk/",
       "area": "Physics with Theoretical Physics",
       "studyType": "MPhys",
       "startDate": "2017-09-01",
@@ -93,14 +102,14 @@
       "name": "Fixation and extinction in time-fluctuating spatially structured metapopulations",
       "publisher": "arXiv",
       "releaseDate": "2024-06-01",
-      "url": "https://iopscience.iop.org/article/10.1088/1751-8121/ad4ad6",
+      "url": "https://doi.org/10.48550/arXiv.2504.08433",
       "summary": ""
     },
     {
       "name": "Eco-evolutionary dynamics of cooperative antimicrobial resistance in a population of fluctuating volume and size",
       "publisher": "Journal of Physics A: Mathematical and Theoretical",
       "releaseDate": "2025-04-11",
-      "url": "https://doi.org/10.48550/arXiv.2504.08433",
+      "url": "https://iopscience.iop.org/article/10.1088/1751-8121/ad4ad6",
       "summary": ""
     },
     {
@@ -182,7 +191,7 @@
     },
     {
       "name": "EEDFP Project Website",
-      "summary": "Created and maintain the website eedfp.com as a research collaboration hub, including for event management and project documentation.",
+      "summary": "Created and maintained the website eedfp.com as a research collaboration hub, including for event management and project documentation.",
       "highlights": ["Web development", "Research communication"],
       "startDate": "",
       "endDate": "",
