@@ -4,7 +4,7 @@ title: Metapopulations
 description: Research into the evolution of populations on metapopulations subject to time-varying environments
 img: assets/img/12.jpg
 importance: 1
-category: research
+category: Research
 related_publications: true
 ---
 
