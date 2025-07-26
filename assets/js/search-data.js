@@ -71,7 +71,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-passed-my-phd-viva-with-editorial-corrections-to-my-thesis-many-thanks-to-my-external-examiners-george-constable-and-steve-fitzgerald-for-making-the-whole-thing-a-pleasant-experience",
           title: 'I successfully passed my PhD viva with editorial corrections to my thesis! Many...',
           description: "",
-          section: "News",},{id: "news-i-have-started-as-a-postdoctoral-researcher-in-the-theoretical-biology-group-at-the-max-planck-institute-for-evolutionary-biology-working-with-arne-traulsen-i-will-be-investigating-stress-induced-mutagenesis-on-a-hfsp-funded-project-working-in-collaboration-with-experimentalists-at-the-martin-kupiec-lab-in-tel-aviv-university",
+          section: "News",},{id: "news-i-have-started-as-a-postdoctoral-researcher-in-the-theoretical-biology-group-at-the-max-planck-institute-for-evolutionary-biology-working-with-arne-traulsen-i-will-be-investigating-stress-induced-mutagenesis-on-a-hfsp-funded-project-working-in-collaboration-with-experimentalists-in-the-martin-kupiec-lab-at-tel-aviv-university",
           title: 'I have started as a postdoctoral researcher in the Theoretical Biology group at...',
           description: "",
           section: "News",},{id: "projects-metapopulations",
