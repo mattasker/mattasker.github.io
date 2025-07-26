@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Stress-induced mutagenesis
+description: Research investigating increased mutation rates in populations during periods of stress
 img:
-importance: 3
-category: fun
+importance: 4
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

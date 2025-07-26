@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Twofold EV
+description: Research into the evolution of a population subject to an environment which varies in time in two distinct ways.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
-category: work
+category: research
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
