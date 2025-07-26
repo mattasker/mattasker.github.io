@@ -54,13 +54,25 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/L24EEDs/";
-            },},{id: "news-poster-presentations-at-iop-physics-of-life-2025-harrogate",
+            },},{id: "news-i-gave-an-invited-talk-at-the-max-planck-institute-for-evolutionary-biology-in-plön-germany-titled-evolution-of-populations-in-fluctuating-environments",
+          title: 'I gave an invited talk at the Max Planck Institute for Evolutionary Biology...',
+          description: "",
+          section: "News",},{id: "news-poster-presentations-at-iop-physics-of-life-2025-harrogate",
           title: 'Poster presentations at IoP Physics of Life 2025, Harrogate',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/PoL2025/";
             },},{id: "news-a-new-pre-print-collaborating-with-colleagues-at-virginia-tech-is-out-we-investigate-fixation-and-extinction-in-time-fluctuating-spatially-structured-metapopulations-read-it-here-10-48550-arxiv-2504-08433",
           title: 'A new pre-print collaborating with colleagues at Virginia Tech is out! We investigate...',
+          description: "",
+          section: "News",},{id: "news-i-gave-an-invited-talk-on-time-fluctuating-metapopulations-fixation-and-extinction-at-the-mini-symposium-spatial-and-temporal-models-of-ecology-and-evolution-of-the-bmc-bamc-2025-in-exeter",
+          title: 'I gave an invited talk on “Time-fluctuating metapopulations: fixation and extinction” at the...',
+          description: "",
+          section: "News",},{id: "news-i-successfully-passed-my-phd-viva-with-editorial-corrections-to-my-thesis-many-thanks-to-my-external-examiners-george-constable-and-steve-fitzgerald-for-making-the-whole-thing-a-pleasant-experience",
+          title: 'I successfully passed my PhD viva with editorial corrections to my thesis! Many...',
+          description: "",
+          section: "News",},{id: "news-i-have-started-as-a-postdoctoral-researcher-in-the-theoretical-biology-group-at-the-max-planck-institute-for-evolutionary-biology-working-with-arne-traulsen-i-will-be-investigating-stress-induced-mutagenesis-on-a-hfsp-funded-project-working-in-collaboration-with-experimentalists-at-the-martin-kupiec-lab-in-tel-aviv-university",
+          title: 'I have started as a postdoctoral researcher in the Theoretical Biology group at...',
           description: "",
           section: "News",},{id: "projects-metapopulations",
           title: 'Metapopulations',
@@ -99,7 +111,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%6D%6D%77%61@%6C%65%65%64%73.%61%63.%75%6B", "_blank");
+          window.open("mailto:%61%73%6B%65%72@%65%76%6F%6C%62%69%6F.%6D%70%67.%64%65", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -120,7 +132,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://eps.leeds.ac.uk/maths/pgr/9235/matthew-asker", "_blank");
+          window.open("https://www.evolbio.mpg.de/person/146203/15303", "_blank");
         },
       },{
       id: 'light-theme',
