@@ -74,8 +74,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-started-as-a-postdoctoral-researcher-in-the-theoretical-biology-group-at-the-max-planck-institute-for-evolutionary-biology-working-with-arne-traulsen-i-will-be-investigating-stress-induced-mutagenesis-on-a-hfsp-funded-project-working-in-collaboration-with-experimentalists-in-the-martin-kupiec-lab-at-tel-aviv-university",
           title: 'I have started as a postdoctoral researcher in the Theoretical Biology group at...',
           description: "",
-          section: "News",},{id: "projects-metapopulations",
-          title: 'Metapopulations',
+          section: "News",},{id: "projects-metapopulation-models",
+          title: 'Metapopulation models',
           description: "Research into the evolution of populations on metapopulations subject to time-varying environments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
