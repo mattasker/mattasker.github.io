@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dissemination/
-title: Dissemination
+title: dissemination
 description: 
 nav: true
 nav_order: 4
