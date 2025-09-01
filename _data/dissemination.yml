@@ -1,15 +1,30 @@
+# _data/dissemination.yml
+# List of recent presentations
+
 - year: 2025
-  title: "Title of Presentation 1"
-  event: "Conference Name"
-  location: "City, Country"
-  date: "January 2025"
+  title: "Advances in Machine Learning for Climate Modeling"
+  event: "International Conference on AI & Environment"
+  location: "Paris, France"
+  date: "January 15, 2025"
+  link: "https://example.com/slides1"       # Optional: link to slides or video
+  description: "Presented latest research on climate modeling using deep learning techniques."  # Optional notes
+
 - year: 2025
-  title: "Title of Presentation 2"
-  event: "Another Conference"
-  location: "City, Country"
-  date: "March 2025"
+  title: "Data Visualization Techniques for Large Datasets"
+  event: "Global Data Science Summit"
+  location: "Berlin, Germany"
+  date: "March 10, 2025"
+  link: "https://example.com/slides2"
+
 - year: 2024
-  title: "Title of Presentation 3"
-  event: "Conference Name"
-  location: "City, Country"
-  date: "November 2024"
+  title: "Optimizing Neural Networks for Edge Devices"
+  event: "AI Hardware Workshop"
+  location: "Tokyo, Japan"
+  date: "November 5, 2024"
+
+- year: 2024
+  title: "Ethical Considerations in AI Research"
+  event: "International Symposium on AI Ethics"
+  location: "London, UK"
+  date: "September 20, 2024"
+  description: "Discussed the ethical challenges and guidelines for responsible AI deployment."
