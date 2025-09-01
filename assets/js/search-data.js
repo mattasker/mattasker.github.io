@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "Under construction.",
@@ -30,12 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "My CV can be viewed below or by downloading a .pdf version with the button to the right.",
+        },{id: "nav-publications",
+          title: "publications",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-dissemination",
+          title: "Dissemination",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/dissemination/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -43,6 +43,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "My CV can be viewed below or by downloading a .pdf version with the button to the right.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -65,7 +72,7 @@ ninja.data = [{
             },},{id: "news-a-new-pre-print-collaborating-with-colleagues-at-virginia-tech-is-out-we-investigate-fixation-and-extinction-in-time-fluctuating-spatially-structured-metapopulations-read-it-here-10-48550-arxiv-2504-08433",
           title: 'A new pre-print collaborating with colleagues at Virginia Tech is out! We investigate...',
           description: "",
-          section: "News",},{id: "news-i-gave-an-invited-talk-on-time-fluctuating-metapopulations-fixation-and-extinction-at-the-mini-symposium-spatial-and-temporal-models-of-ecology-and-evolution-of-the-bmc-bamc-2025-in-exeter",
+          section: "News",},{id: "news-i-gave-an-invited-talk-on-time-fluctuating-metapopulations-fixation-and-extinction-at-the-mini-symposium-spatial-and-temporal-models-of-ecology-and-evolution-of-the-bmc-bamc-2025-in-exeter-uk",
           title: 'I gave an invited talk on “Time-fluctuating metapopulations: fixation and extinction” at the...',
           description: "",
           section: "News",},{id: "news-i-successfully-passed-my-phd-viva-with-editorial-corrections-to-my-thesis-many-thanks-to-my-external-examiners-george-constable-and-steve-fitzgerald-for-making-the-whole-thing-a-pleasant-experience",
@@ -73,6 +80,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-have-started-as-a-postdoctoral-researcher-in-the-theoretical-biology-group-at-the-max-planck-institute-for-evolutionary-biology-working-with-arne-traulsen-i-will-be-investigating-stress-induced-mutagenesis-on-a-hfsp-funded-project-working-in-collaboration-with-experimentalists-in-the-martin-kupiec-lab-at-tel-aviv-university",
           title: 'I have started as a postdoctoral researcher in the Theoretical Biology group at...',
+          description: "",
+          section: "News",},{id: "news-i-presented-a-poster-on-our-recent-pre-print-fixation-and-extinction-in-time-fluctuating-spatially-structured-metapopulations-at-esbs-2025-in-munich-germany-it-was-a-great-conference-and-a-lot-of-fun-happy-birthday-erwin",
+          title: 'I presented a poster on our recent pre-print “Fixation and extinction in time-fluctuating...',
           description: "",
           section: "News",},{id: "projects-metapopulation-models",
           title: 'Metapopulation models',
