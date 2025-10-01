@@ -7,7 +7,7 @@ first_name: Matthew
 middle_name: 
 last_name: Asker
 contact_note: >
-  Don't hesistate to get in touch if you want to chat!
+  Get in touch!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Matthew Asker.
 footer_text: >
@@ -191,6 +191,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/books.md
+  - _pages/blog.md
   - purgecss.config.js
   - README.md
   - readme_preview/
