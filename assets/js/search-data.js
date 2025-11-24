@@ -80,22 +80,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-investigating-fixation-and-extinction-in-time-fluctuating-spatially-structured-metapopulations-with-collaborators-at-virginia-tech-is-now-published-in-physical-review-research-read-it-here-10-1103-6w4h-8xvk",
           title: 'Our paper investigating fixation and extinction in time-fluctuating spatially structured metapopulations with collaborators...',
           description: "",
-          section: "News",},{id: "projects-metapopulation-models",
-          title: 'Metapopulation models',
-          description: "Research into the evolution of populations on metapopulations subject to time-varying environments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-cooperative-amr",
-          title: 'Cooperative AMR',
-          description: "Research into the evolution of cooperative antimicrobial resistance subject to time-varying environments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-twofold-ev",
-          title: 'Twofold EV',
-          description: "Research into the evolution of a population subject to an environment which varies in time in two distinct ways.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-stress-induced-mutagenesis",
+          section: "News",},{id: "projects-stress-induced-mutagenesis",
           title: 'Stress-induced mutagenesis',
           description: "Research investigating increased mutation rates in populations during periods of stress",
           section: "Projects",handler: () => {
@@ -105,6 +90,21 @@ ninja.data = [{
           description: "A project inspired by Roger Federer&#39;s 2024 Dartmouth Commencement speech",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-cooperative-amr",
+          title: 'Cooperative AMR',
+          description: "Research into the evolution of cooperative antimicrobial resistance subject to time-varying environments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cooperative-AMR/";
+            },},{id: "projects-metapopulation-models",
+          title: 'Metapopulation models',
+          description: "Research into the evolution of populations on metapopulations subject to time-varying environments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/metapopulations/";
+            },},{id: "projects-twofold-ev",
+          title: 'Twofold EV',
+          description: "Research into the evolution of a population subject to an environment which varies in time in two distinct ways.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/twofold-EV/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
