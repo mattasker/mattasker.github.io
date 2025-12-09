@@ -25,11 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a statistical physicist with a strong interest in non-equilibrium systems relating to evolution. My current research draws on tools from non-equilibrium statistical physics to explore eco-evolutionary processes in biological systems.
+I am a theoretical physicist with a strong interest in non-equilibrium systems relating to evolution. My current research draws on tools from non-equilibrium statistical physics to explore eco-evolutionary processes in biological systems.
 
 I'm particularly interested in understanding how evolution is impacted by external influences; for example, the evolution of a population experiencing a sudden food scarcity or a toxic environment may differ greatly from a population allowed to evolve without these stresses. This problem is increasingly relevant to microbial communities where external influences are something one can often control in a lab. Understanding these dynamics provides us with insights into issues such as the development of antimicrobial resistance and cancer evolution. 
 
-While biology offers some of the most striking and consequential examples of evolution, I'm also intrigued by how evolution unfolds in other complex systems. This includes systems from sociology, artificial intelligence, culture and language, economics, and cybersecurity, to name a handful. These other examples speak to the relevance of evolution as a unifying framework that can be utilised across several disciplines.
+While biology offers some of the most striking and consequential examples of evolution, I'm also intrigued by how evolution unfolds in other complex systems. This includes systems from sociology, artificial intelligence, language, culture, economics, and cybersecurity, to name a handful. These other examples demonstrate how evolution can be used as a unifying framework across several disciplines.
 
 Here you will find everything to do with my publications, talks, teaching, and anything else I think is worthwhile having on here.
 
