@@ -8,12 +8,7 @@ profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: |
-    <strong>Contact</strong><br>
-    Max Planck Institute for Evolutionary Biology<br>
-    August-Thienemann-Straße 2<br>
-    24306 Plön<br>
-    Germany
+  more_info: "Contact: Max Planck Institute for Evolutionary Biology, August-Thienemann-Straße 2, 24306 Plön, Germany"
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
