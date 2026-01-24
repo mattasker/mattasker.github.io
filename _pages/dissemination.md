@@ -28,7 +28,7 @@ nav_order: 4
       </div>
 
       <div style="color:#666; font-size:0.95rem;">
-        {% if pres.event %}{{ pres.event }} · {% endif %}
+        {% if pres.host %}{{ pres.host }} · {% endif %}
         {{ pres.location }} · {{ pres.date }}
       </div>
     </div>

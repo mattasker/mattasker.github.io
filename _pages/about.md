@@ -29,5 +29,3 @@ Hello there! My name is Matthew Asker and I am a theoretical physicist with a st
 In my research, I use tools from non-equilibrium statistical physics to explore biological systems. I'm particularly interested in understanding how evolution is impacted by external influences; for example, the evolution of a population experiencing a sudden food scarcity or a toxic environment may differ greatly from a population allowed to evolve in the absence of stress. This problem is increasingly relevant to microbial evolution where external influences are something one can often control in a lab. Understanding these dynamics provides us with insights into issues such as the development of antimicrobial resistance and cancer evolution. 
 
 If you would like to get in contact with me, please do so on my email: [asker@evolbio.mpg.de](mailto:asker@evolbio.mpg.de).
-
-You can also find me (occasionally) on Bluesky: [masker.science](https://bsky.app/profile/masker.science)
