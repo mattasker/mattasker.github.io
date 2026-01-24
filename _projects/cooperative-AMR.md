@@ -5,7 +5,6 @@ description: Evolution of cooperative antimicrobial resistance subject to time-v
 img: assets/img/publication_preview/paper1.jpg
 importance: 2
 category: Research
-related_publications: true
 ---
 
 Under construction.

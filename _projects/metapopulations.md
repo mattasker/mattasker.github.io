@@ -5,7 +5,6 @@ description: Evolution of populations on metapopulations subject to time-varying
 img: assets/img/publication_preview/paper4.jpg
 importance: 1
 category: Research
-related_publications: true
 ---
 
 Below is a short summary of our recent publication.
