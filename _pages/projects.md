@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Under construction.
+description:
 nav: true
 nav_order: 2
-display_categories: [Research, Play]
+display_categories: [Research]
 horizontal: false
 ---
 

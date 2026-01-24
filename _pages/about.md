@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher, <a href='https://www.evolbio.mpg.de/person/146203/15303'>Max Planck Institute for Evolutionary Biology</a>. Mathematics of evolution.
+subtitle: Postdoctoral researcher, <a href='https://www.evolbio.mpg.de/person/146203/15303'>Max Planck Institute for Evolutionary Biology</a>.
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>What I look like, up to a hair-constant.</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,13 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a theoretical physicist with a strong interest in non-equilibrium systems relating to evolution. My current research draws on tools from non-equilibrium statistical physics to explore eco-evolutionary processes in biological systems.
+Hello there! My name is Matthew Asker and I am a theoretical physicist with a strong interest in evolution. I'm currently a postdoctoral in the [Theoretical Biology group](https://theobio.evolbio.mpg.de/#home) at the [Max Planck Instite for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en), located in the beautiful German town of Plön. On these pages, you can find some information about me and my research.
 
-I'm particularly interested in understanding how evolution is impacted by external influences; for example, the evolution of a population experiencing a sudden food scarcity or a toxic environment may differ greatly from a population allowed to evolve without these stresses. This problem is increasingly relevant to microbial communities where external influences are something one can often control in a lab. Understanding these dynamics provides us with insights into issues such as the development of antimicrobial resistance and cancer evolution. 
-
-While biology offers some of the most striking and consequential examples of evolution, I'm also intrigued by how evolution unfolds in other complex systems. This includes systems from sociology, artificial intelligence, language, culture, economics, and cybersecurity, to name a handful. These other examples demonstrate how evolution can be used as a unifying framework across several disciplines.
-
-Here you will find everything to do with my publications, talks, teaching, and anything else I think is worthwhile having on here.
+In my research, I use tools from non-equilibrium statistical physics to explore biological systems. I'm particularly interested in understanding how evolution is impacted by external influences; for example, the evolution of a population experiencing a sudden food scarcity or a toxic environment may differ greatly from a population allowed to evolve in the absence of stress. This problem is increasingly relevant to microbial evolution where external influences are something one can often control in a lab. Understanding these dynamics provides us with insights into issues such as the development of antimicrobial resistance and cancer evolution. 
 
 If you would like to get in contact with me, please do so on my email: [asker@evolbio.mpg.de](mailto:asker@evolbio.mpg.de).
 
