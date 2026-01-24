@@ -8,36 +8,29 @@ nav_order: 4
 
 <div>
 
-  {% assign talks = site.data.dissemination | sort: "sort_date" | reverse %}
+  {% assign sorted_presentations = site.data.dissemination | sort: "sort_date" | reverse %}
   {% assign current_year = "" %}
 
-  {% for pres in talks %}
+  {% for pres in sorted_presentations %}
 
     {% assign year = pres.sort_date | slice: 0, 4 %}
 
     {% if year != current_year %}
-      <div>
-        <h3>{{ year }}</h3>
+      <div style="margin-top:2.2rem; margin-bottom:0.6rem; border-bottom:1px solid #e5e5e5;">
+        <h3 style="margin-bottom:0.3rem;">{{ year }}</h3>
       </div>
       {% assign current_year = year %}
     {% endif %}
 
-    <div>
-
-      <div>
+    <div style="margin-bottom:1.2rem;">
+      <div style="font-weight:600;">
         {{ pres.title }}
       </div>
 
-      {% if pres.host %}
-      <div>
-        <em>{{ pres.host }}</em>
-      </div>
-      {% endif %}
-
-      <div>
+      <div style="color:#666; font-size:0.95rem;">
+        {% if pres.event %}{{ pres.event }} · {% endif %}
         {{ pres.location }} · {{ pres.date }}
       </div>
-
     </div>
 
   {% endfor %}
