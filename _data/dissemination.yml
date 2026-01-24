@@ -2,9 +2,34 @@
 # List of recent presentations
 
 - year: 2025
-  title: "Advances in Machine Learning for Climate Modeling"
-  event: "International Conference on AI & Environment"
-  location: "Paris, France"
-  date: "January 15, 2025"
-  link: "https://example.com/slides1"       # Optional: link to slides or video
-  description: "Presented latest research on climate modeling using deep learning techniques."  # Optional notes
+  title: "Invited talk at mini-symposium on 'Spatial and temporal models of ecology and evolution'"
+  event: "BAMC 2025"
+  location: "University of Exeter, Exeter, UK"
+  date: "June 24, 2025"
+
+- year: 2025
+  title: "Invited seminar"
+  location: "Max Planck Institute for Evolutionary Biology, Plön, Germany"
+  date: "March 4, 2025"
+
+- year: 2024
+  title: "Invited seminar"
+  location: "Stony Brook University, New York, USA"
+  date: "September 5, 2024"
+
+- year: 2024
+  title: "Invited seminar"
+  location: "Virginia Tech, Roanoke, USA"
+  date: "August 26, 2024"
+
+- year: 2024
+  title: "Contributed talk"
+  event: "Center for Soft Matter and Biological Physics 2024 Annual Symposium"
+  location: "Virginia Tech, Roanoke, USA"
+  date: "August 30, 2024"
+
+- year: 2024
+  title: "Contributed talk"
+  event: "L24EEDs workshop"
+  location: "University of Leeds, Leeds, UK"
+  date: "July 10, 2024"
