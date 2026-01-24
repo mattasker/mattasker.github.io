@@ -9,17 +9,24 @@ nav_order: 4
 
 <div class="presentations">
 
-{% assign sorted_presentations = site.data.dissemination | sort: "year" | reverse %}
+  {% assign sorted_presentations = site.data.dissemination | sort: "year" | reverse %}
 
-{% assign current_year = "" %}
-{% for pres in sorted_presentations %}
-  {% if pres.year != current_year %}
+  {% assign current_year = "" %}
   
-### {{ pres.year }}
-{% assign current_year = pres.year %}
-  {% endif %}
-- **{{ pres.title }}** – {% if pres.event %}{{ pres.event }}{% else %}No event specified{% endif %}, {{ pres.location }}, {{ pres.date }}
-{% endfor %}
+  {% for pres in sorted_presentations %}
+    {% if pres.year != current_year %}
+    
+    ### {{ pres.year }}
+    
+    {% assign current_year = pres.year %}
+    {% endif %}
+    
+    - **{{ pres.title }}** – 
+      {% if pres.event %}
+        {{ pres.event }}
+      {% endif %}, 
+      {{ pres.location }}, 
+      {{ pres.date }}
+  {% endfor %}
 
 </div>
-
