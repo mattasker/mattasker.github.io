@@ -18,7 +18,8 @@ nav_order: 4
 ### {{ pres.year }}
 {% assign current_year = pres.year %}
   {% endif %}
-- **{{ pres.title }}** – {{ pres.event }}, {{ pres.location }}, {{ pres.date }}
+- **{{ pres.title }}** – {% if pres.event %}{{ pres.event }}{% else %}No event specified{% endif %}, {{ pres.location }}, {{ pres.date }}
 {% endfor %}
 
 </div>
+
