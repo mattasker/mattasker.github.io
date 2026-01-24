@@ -1,34 +1,34 @@
 # _data/dissemination.yml
-# List of recent presentations
+# Newest talks should have the largest sort_date
 
-- year: 2025
+- sort_date: 2025-06-24
   title: "Invited talk at mini-symposium on 'Spatial and temporal models of ecology and evolution'"
   event: "BAMC 2025"
   location: "University of Exeter, Exeter, UK"
   date: "June 24, 2025"
 
-- year: 2025
+- sort_date: 2025-03-04
   title: "Invited seminar"
   location: "Max Planck Institute for Evolutionary Biology, Plön, Germany"
   date: "March 4, 2025"
 
-- year: 2024
+- sort_date: 2024-09-05
   title: "Invited seminar"
   location: "Stony Brook University, New York, USA"
   date: "September 5, 2024"
 
-- year: 2024
-  title: "Invited seminar"
-  location: "Virginia Tech, Roanoke, USA"
-  date: "August 26, 2024"
-
-- year: 2024
+- sort_date: 2024-08-30
   title: "Contributed talk"
   event: "Center for Soft Matter and Biological Physics 2024 Annual Symposium"
   location: "Virginia Tech, Roanoke, USA"
   date: "August 30, 2024"
 
-- year: 2024
+- sort_date: 2024-08-26
+  title: "Invited seminar"
+  location: "Virginia Tech, Roanoke, USA"
+  date: "August 26, 2024"
+
+- sort_date: 2024-07-10
   title: "Contributed talk"
   event: "L24EEDs workshop"
   location: "University of Leeds, Leeds, UK"
