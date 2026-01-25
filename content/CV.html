@@ -6,7 +6,6 @@
 <p>
   <a href="assets/pdfs/AskerMatthew-CV.pdf"
      class="btn btn-primary"
-     download
      target="_blank"
      rel="noopener">
     Download CV (PDF)
@@ -14,11 +13,12 @@
 </p>
 
 <!-- Embedded PDF viewer -->
-<div style="margin-top:20px;">
+<div style="margin-top:20px;" data-no-router>
   <iframe
     src="assets/pdfs/AskerMatthew-CV.pdf"
-    style="width:100%; height:800px; border:1px solid #ccc;">
+    style="width:100%; height:800px; border:1px solid #ccc;"
+    frameborder="0">
     Your browser does not support embedded PDFs.
-    <a href="/assets/pdfs/AskerMatthew-CV.pdf" target="_blank">Download the PDF instead</a>.
+    <a href="assets/pdfs/AskerMatthew-CV.pdf" target="_blank">Download the PDF instead</a>.
   </iframe>
 </div>
