@@ -25,9 +25,7 @@ function attachNavbarListeners() {
     const links = document.querySelectorAll('#header .nav a[data-page]');
     links.forEach(link => {
         link.addEventListener('click', function(e) {
-            // Skip if inside a no-router container (like iframe content)
-            if (this.closest('[data-no-router]')) return;
-
+            
             e.preventDefault();
             const page = this.dataset.page;
 
