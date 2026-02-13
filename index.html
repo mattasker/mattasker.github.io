@@ -18,7 +18,20 @@
             --color1: rgb(206, 225, 244);
             --color2: rgb(123, 148, 185);
         }
-        * { font-family:'Helvetica Neue'; font-size:16px; text-align:justify; }
+        body {
+            font-family:'Helvetica Neue';
+            font-size:16px;
+            text-align:justify; /* only body text */
+        }
+
+        .sidebar, .sidebar * {
+            text-align: left; /* override for sidebar content */
+        }
+
+        .header, .header * {
+            text-align: left;
+        }
+
         navbar .nav > .active > a { background-color: var(--color2); }
     </style>
 
