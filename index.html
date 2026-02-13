@@ -20,7 +20,7 @@
         }
         body {
             font-family:'Helvetica Neue';
-            font-size:16px;
+            font-size: clamp(12px, 1.2vw, 32px);
             text-align:justify; /* only body text */
         }
 
@@ -30,6 +30,11 @@
 
         .header, .header * {
             text-align: left;
+        }
+
+        .container-fluid {
+            padding-left: 10vw;
+            padding-right: 10vw;
         }
 
         navbar .nav > .active > a { background-color: var(--color2); }
@@ -45,7 +50,7 @@
     </script>
 
     <!-- Page content -->
-    <div class="container" style="padding-top:20px;">
+    <div class="container-fluid" style="padding-top:20px;">
         <div class="row g-4">
 
             <!-- Sidebar -->
