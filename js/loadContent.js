@@ -40,12 +40,12 @@ function routeToHash() {
 // immediately even before header.html has finished loading/inserting
 // the nav links. No race condition with fragment loading.
 document.addEventListener('click', function (e) {
-    const link = e.target.closest('#header .nav a[data-page]');
-    if (!link) return;
+  const link = e.target.closest('a[data-page]');   // was: '#header .nav a[data-page]'
+  if (!link) return;
 
-    e.preventDefault();
-    loadContent(link.dataset.page);
-    setActiveLink(link.dataset.page);
+  e.preventDefault();
+  loadContent(link.dataset.page);
+  setActiveLink(link.dataset.page);
 });
 
 // Handle browser back/forward buttons (and any other hash changes)
