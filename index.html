@@ -1,104 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="en-GB">
 <head>
-    <meta charset="UTF-8">
-    <title>Matthew Asker</title>
-    <link rel="icon" type="image/png" href="./assets/images/icon.png">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    
-    <!-- jQuery & Bootstrap JS -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-    <!-- Custom CSS -->
-    <style>
-        :root {
-            --color1: rgb(206, 225, 244);
-            --color2: rgb(123, 148, 185);
-        }
-        body {
-            font-family:'Helvetica Neue';
-            font-size: clamp(12px, 1vw, 32px);
-            text-align:justify; /* only body text */
-        }
-        
-        h2 {
-            font-family:'Helvetica Neue';
-            font-size: clamp(12px, 1.5vw, 64px);
-            text-align:justify;
-        }
-
-        h3 {
-            font-family:'Helvetica Neue';
-            font-size: clamp(12px, 1.2vw, 48px);
-            text-align:justify;
-        }
-
-        h4 {
-            font-family:'Helvetica Neue';
-            font-size: clamp(12px, 1vw, 36px);
-            text-align:justify;
-        }
-
-        h5 {
-            font-family:'Helvetica Neue';
-            font-size: clamp(12px, 1vw, 32px);
-            text-align:justify;
-        }
-
-        .sidebar, .sidebar * {
-            text-align: left; /* override for sidebar content */
-        }
-
-        .header, .header * {
-            text-align: left;
-        }
-
-        .container-fluid {
-            padding-left: 10vw;
-            padding-right: 10vw;
-        }
-
-        navbar .nav > .active > a { background-color: var(--color2); }
-    </style>
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Matthew Asker</title>
+  <meta name="description" content="Matthew Asker — mathematical models of evolution and adaptation. Postdoctoral researcher at the Max Planck Institute for Evolutionary Biology, Plön.">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="canonical" href="https://masker.science/">
+  <link rel="icon" type="image/png" href="assets/images/icon.png">
+  <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-
-    <!-- Header -->
-    <div id="header"></div>
-    <script>
-        fetch('header.html').then(r=>r.text()).then(html=>document.getElementById('header').innerHTML = html);
-    </script>
-
-    <!-- Page content -->
-    <div class="container-fluid" style="padding-top:20px;">
-        <div class="row g-4">
-
-            <!-- Sidebar -->
-            <div id="sidebar"></div>
-            <script>
-                fetch('sidebar.html').then(r=>r.text()).then(html=>document.getElementById('sidebar').innerHTML = html);
-            </script>
-
-            <!-- Right content -->
-            <div id="main-content" class="col-md-9 col-sm-8" style="padding-left:30px;">
-                <!-- Loaded dynamically -->
-            </div>
-        </div>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <nav class="site-nav" aria-label="Main navigation">
+    <ul>
+      <li><a href="index.html" aria-current="page">Home</a></li>
+      <li><a href="content/research.html">Research</a></li>
+      <li><a href="content/publications.html">Publications</a></li>
+      <li><a href="content/talks-and-seminars.html">Talks &amp; seminars</a></li>
+      <li><a href="content/blog.html">Blog</a></li>
+      <li><a href="content/about.html">About</a></li>
+    </ul>
+  </nav>
+  <main id="main" class="home">
+    <img class="portrait" src="assets/images/photo.jpeg" alt="Matthew Asker" width="260" height="280" fetchpriority="high">
+    <div class="home-copy">
+      <h1>Matthew Asker</h1>
+      <p class="one-liner">I use mathematics to understand how populations adapt.</p>
+      <p class="affiliation">I’m a postdoctoral researcher at the <a href="https://www.evolbio.mpg.de/2169/en" target="_blank" rel="noopener noreferrer" title="Opens in a new tab">Max Planck Institute for Evolutionary Biology</a> in Plön, Germany, working with <a href="https://www.evolbio.mpg.de/person/12087/2169" target="_blank" rel="noopener noreferrer" title="Opens in a new tab">Arne Traulsen</a>.</p>
+      <p class="email"><a href="mailto:asker@evolbio.mpg.de">asker@evolbio.mpg.de</a></p>
     </div>
-
-    <!-- Footer -->
-    <div id="footer"></div>
-    <script>
-        fetch('footer.html').then(r=>r.text()).then(html=>document.getElementById('footer').innerHTML = html);
-    </script>
-
-    <!-- JS loader for navbar clicks -->
-    <script src="js/loadContent.js"></script>
+    <section class="news" aria-labelledby="news-heading">
+      <h2 id="news-heading">News</h2>
+      <ul class="news-list">
+        <li>
+          <time datetime="2026-10-12">12 Oct 2026</time>
+          <p>Invited talk at the <a href="https://smtpb.org/page-18061" target="_blank" rel="noopener noreferrer" title="Opens in a new tab">SMTPBconnect Grad and Postdoc Showcase</a>.</p>
+        </li>
+        <li>
+          <time datetime="2026-09-29">29 Sep 2026</time>
+          <p>Talk at <a href="https://workshops.evolbio.mpg.de/event/143/timetable/#20260928" target="_blank" rel="noopener noreferrer" title="Opens in a new tab">Evolutionary Biology meets the Antibiotic Crisis</a> in Plön.</p>
+        </li>
+        <li>
+          <time datetime="2026-04-20">20 Apr 2026</time>
+          <p>Contributed talk at <a href="https://dbearup.github.io/mpdee26/" target="_blank" rel="noopener noreferrer" title="Opens in a new tab">MPDEE’26</a> in Leicester.</p>
+        </li>
+        <li>
+          <time datetime="2025-11-21">21 Nov 2025</time>
+          <p>Our <a href="https://doi.org/10.1103/6w4h-8xvk" target="_blank" rel="noopener noreferrer" title="Opens in a new tab">paper on fixation and extinction in fluctuating metapopulations</a> was published in <em>Physical Review Research</em>.</p>
+        </li>
+      </ul>
+    </section>
+  </main>
 </body>
 </html>
